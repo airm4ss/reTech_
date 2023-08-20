@@ -17,4 +17,3 @@
 
 ### IA
 ![reTech_IA](https://github.com/mmingidan/reTech/assets/102302841/fa02f8da-e193-4cb6-8891-2f9cbf8921e3)
-<img src="https://github.com/mmingidan/reTech/issues/1#issue-1857994012" width="100" height="200">
