@@ -5,11 +5,11 @@
 
 
     
-##사용언어
-*HTML, CSS, JavaScript
-*Django
-*Python  
+## 사용언어
+* HTML, CSS, JavaScript
+* Django
+* Python  
 
-##사용 API
-*KAKAO MAP API
-*CHAT GPT API
+## 사용 API
+* KAKAO MAP API
+* CHAT GPT API
