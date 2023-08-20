@@ -16,4 +16,4 @@
 * CHAT GPT API
 
 ### IA
-<img src="https://user-images.githubusercontent.com/102302841/261834160-fa02f8da-e193-4cb6-8891-2f9cbf8921e3.png" width="1000" height="500">
+<img src="https://user-images.githubusercontent.com/102302841/261834160-fa02f8da-e193-4cb6-8891-2f9cbf8921e3.png" width="1000" height="400">
